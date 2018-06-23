@@ -1,5 +1,3 @@
-# 参考
-
 参考[源码](https://github.com/Baeldung/spring-security-oauth)改造而成。
 
 ------
